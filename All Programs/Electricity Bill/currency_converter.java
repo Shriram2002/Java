@@ -1,4 +1,3 @@
-package converter;
 import java.util.*;
 public class currency_converter
 {
